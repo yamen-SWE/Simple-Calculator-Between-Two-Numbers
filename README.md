@@ -16,5 +16,5 @@ A versatile C program developed as part of my **Computer Systems Engineering** s
 3. Build and run the project.
 
 ## Author
-**Yamen Bilal Abu Helal**
+**Yamen Bilal Abu Hilal**
 *Computer Systems and Software Engineering Student*
