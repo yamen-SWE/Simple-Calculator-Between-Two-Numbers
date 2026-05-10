@@ -27,10 +27,10 @@ int main()
         break;
     case '/':
         if(num2 == 0){
-            printf("Please do not enter zero in the denominator.")
+            printf("Please do not enter zero in the denominator.");
         }else{
-        process = num1 / num2 ;
-        printf("The division is %.2f\n",process);
+            process = num1 / num2 ;
+            printf("The division is %.2f\n",process);
         }
         break;
     default:
