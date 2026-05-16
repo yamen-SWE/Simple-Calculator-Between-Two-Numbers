@@ -34,12 +34,12 @@ int main()
             default:
                 printf("%c : The operation is wrong\nDon't worry, I will ignore the incorrect signal and the last value you entered.\n",operationType);
        }
-        printf("You can use the (!) symbol to end calculations.");
+        printf("You can use the (!) symbol to end calculations.\n");
         printf("Enter an process (+ , - , * ,or /) : ");
         scanf("  %c",&operationType);
         i++;
     }
-    printf("process : %.2f",num1);
+    printf("\nProcess : %.2f\n",num1);
 
     return 0;
 }
